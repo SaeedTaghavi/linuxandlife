@@ -1,3 +1,4 @@
+@import url('web-fonts.css');
 pre {
     direction: ltr;
 }
@@ -11,11 +12,12 @@ img {
 }
 
 body {
-	font-family: 'Droid Arabic Naskh', serif;
+	font-family: 'IranianSerifWeb', serif;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-	font-family: 'Droid Arabic Naskh', serif;
+	font-family: 'MitraWeb', serif;
+	font-weight:700;
 }
 
 .footer {
@@ -33,8 +35,8 @@ blockquote {
 }
 
 p {
-	font-size: 1.1em;
-	line-height: normal;
+	font-size: 1.5em;
+	line-height: 1.6;
 }
 
 .support {

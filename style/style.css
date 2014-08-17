@@ -13,11 +13,17 @@ img {
 
 body {
 	font-family: 'IranianSerifWeb', serif;
+	font-size:17px; !important;
+	word-spacing: 0.9px;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 	font-family: 'MitraWeb', serif;
 	font-weight:700;
+}
+
+a.list-group-item{
+	font-size:15px;
 }
 
 .footer {
@@ -35,7 +41,7 @@ blockquote {
 }
 
 p {
-	font-size: 1.5em;
+	font-size: 100%;
 	line-height: 1.6;
 }
 
